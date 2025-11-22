@@ -159,7 +159,7 @@ const Navbar = () => {
           <img 
             src="/DroneVision_logo_workspace.png" 
             alt="DroneVision Logo" 
-            className="h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
+            className="h-20 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
           />
         </div>
 
